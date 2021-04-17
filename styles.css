@@ -72,8 +72,8 @@ img{
     margin-bottom: 20px;
 }
 
-.other-bg blockquote{   color: hsla(0, 0%, 100%, 70%);}
-.white-bg blockquote{   color: hsla(219, 29%, 14%, 70%)}
+.other-bg blockquote{   color: hsla(0, 0%, 100%, 70%); line-height: 20px;}
+.white-bg blockquote{   color: hsla(219, 29%, 14%, 70%); line-height: 20px;}
 
 .attribution { font-size: 11px; text-align: center; color: hsl(219, 29%, 14%); width:100%;}
 .attribution a { color: hsl(228, 45%, 44%); }
@@ -91,7 +91,6 @@ img{
     .container{
         display:grid;
         grid-template-columns:repeat(2, 1fr);
-        /* grid-template-rows: repeat(3, 1fr); */
         column-gap: 30px;
         row-gap: 30px;
         padding-bottom: 3em;
@@ -136,9 +135,6 @@ img{
     .container{
         display:grid;
         grid-template-columns:repeat(4, 1fr);
-        /* grid-template-rows: 1fr 1fr; */
-        /* column-gap: 30px;
-        row-gap: 30px; */
     }
 
     .box-1{
