@@ -5,8 +5,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-testimonial-grid-challenge.vercel.app/)
+- Solution URL: [My Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/mobile-first-testimonial-grid-template-using-html-and-css-03u10f0I2)
+- Live Site URL: [Testimonial Grid live link](https://frontend-mentor-testimonial-grid-challenge.vercel.app/)
 
 
 ### Built with
