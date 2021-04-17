@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-testimonial-grid-challenge.vercel.app/)
 
 
 ### Built with
